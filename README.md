@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @bgymn
 - 👀 I’m interested in geospatial information science, geospatial computational programming, webGIS app development, and remote sensing.
 - 🌱 I’m currently learning python for GEE
-- 💞️ I’m looking to collaborate on VIIRS algorithm development to seperate arson related fire events from agricultrural, wilddfire, etc.
+- 💞️ I’m looking to collaborate on VIIRS algorithm development to seperate arson related fire events from agricultrural, wildfire, etc.
 - 📫 How to reach me ... email=> tingram2@uccs.edu or tyeingram@gmail.com
 - Thanks for stopping by I would love your feedback!
 <!---
